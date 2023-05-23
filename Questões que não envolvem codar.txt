@@ -1,0 +1,20 @@
+1 - 35
+
+2 - Operador == representa "igual à" e === representa "estritamente igual à". 
+Usa-se o operador == quando quiser conferir somente se o valor é igual entre variáveis, já
+o operador === se usa se além do valor, o tipo das variáveis é igual. 
+
+3 - b) Loop infinito
+
+4 - novoNumero = 9
+    a = 3
+
+5 - False
+    True
+    { nome: 'Maria' }
+    { nome: 'Pedro' }
+    False
+
+6 - x = 12
+    y = 19.5
+
